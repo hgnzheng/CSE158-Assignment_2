@@ -12,7 +12,10 @@ CSE 158 Recommender Systems and Web Mining taken at UC San Diego during Fall Qua
 
 For this assignment, we need to find a dataset that is large enough to perform a predictive task. At the end, we would need to write a report to describe the whole process -- we are using LaTeX to type up the report.
 
+We are using [Google Local (2021) and (2018)](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_local) datasets from Prof. Julian McAuley's recommender systems dataset website.
+
 ## Author Info :trident:
 - Hargen Zheng [GitHub](https://github.com/hgnzheng)
 - Nate del Rosario [GitHub](https://github.com/natdosan)
 - Chuong Nguyen [GitHub](https://github.com/chuongnguyen26)
+- Trevan Nguyen [GitHub](https://github.com/SudoSure)
