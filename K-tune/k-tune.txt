@@ -1,0 +1,17 @@
+K, Valid Accuracy
+
+Model is fitting now...
+Model fitting has completed!
+TopK Choice: 1000 | Training Accuracy: 0.8061264637972272 | Validation Accuracy: 0.8055348490495714
+Model is fitting now...
+Model fitting has completed!
+TopK Choice: 2000 | Training Accuracy: 0.810029923069755 | Validation Accuracy: 0.8097279165113679
+Model is fitting now...
+Model fitting has completed!
+TopK Choice: 3000 | Training Accuracy: 0.8124579368612874 | Validation Accuracy: 0.8122437569884458
+Model is fitting now...
+Model fitting has completed!
+TopK Choice: 4000 | Training Accuracy: 0.8136641782545221 | Validation Accuracy: 0.8138743943347
+
+
+4000 after stripping short reviews: 0.8159018143009605
