@@ -56,4 +56,26 @@ Lambda, valid_acc
  (12200, 0.8089824822959374)]
 
  BestLambda: Any one of 12188-12194
- BestValidAcc: 
+ BestValidAcc: 0.8091222512113306
+
+ Model is fitting now...
+Model fitting has completed!
+Reg Constant: 0.01 | Training Accuracy: 0.7875462047400628 | Validation Accuracy: 0.7836377189713007
+Model is fitting now...
+Model fitting has completed!
+Reg Constant: 0.1 | Training Accuracy: 0.7875565587434381 | Validation Accuracy: 0.7835911293328364
+Model is fitting now...
+Model fitting has completed!
+Reg Constant: 1 | Training Accuracy: 0.787592797755252 | Validation Accuracy: 0.783777487886694
+Model is fitting now...
+Model fitting has completed!
+Reg Constant: 10 | Training Accuracy: 0.7874323107029333 | Validation Accuracy: 0.7839638464405516
+Model is fitting now...
+Model fitting has completed!
+Reg Constant: 100 | Training Accuracy: 0.7863554943518911 | Validation Accuracy: 0.7835911293328364
+Model is fitting now...
+Model fitting has completed!
+Reg Constant: 1000 | Training Accuracy: 0.7834408424017146 | Validation Accuracy: 0.782053671263511
+Model is fitting now...
+Model fitting has completed!
+Reg Constant: 10000 | Training Accuracy: 0.8071359791263292 | Validation Accuracy: 0.8066064107342527
